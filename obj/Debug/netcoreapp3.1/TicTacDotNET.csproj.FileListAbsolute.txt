@@ -1,0 +1,11 @@
+/home/lucas/GitProjects/TicTacDotNET/bin/Debug/netcoreapp3.1/TicTacDotNET
+/home/lucas/GitProjects/TicTacDotNET/bin/Debug/netcoreapp3.1/TicTacDotNET.deps.json
+/home/lucas/GitProjects/TicTacDotNET/bin/Debug/netcoreapp3.1/TicTacDotNET.runtimeconfig.json
+/home/lucas/GitProjects/TicTacDotNET/bin/Debug/netcoreapp3.1/TicTacDotNET.runtimeconfig.dev.json
+/home/lucas/GitProjects/TicTacDotNET/bin/Debug/netcoreapp3.1/TicTacDotNET.dll
+/home/lucas/GitProjects/TicTacDotNET/bin/Debug/netcoreapp3.1/TicTacDotNET.pdb
+/home/lucas/GitProjects/TicTacDotNET/obj/Debug/netcoreapp3.1/TicTacDotNET.csprojAssemblyReference.cache
+/home/lucas/GitProjects/TicTacDotNET/obj/Debug/netcoreapp3.1/TicTacDotNET.AssemblyInfoInputs.cache
+/home/lucas/GitProjects/TicTacDotNET/obj/Debug/netcoreapp3.1/TicTacDotNET.AssemblyInfo.cs
+/home/lucas/GitProjects/TicTacDotNET/obj/Debug/netcoreapp3.1/TicTacDotNET.dll
+/home/lucas/GitProjects/TicTacDotNET/obj/Debug/netcoreapp3.1/TicTacDotNET.pdb
